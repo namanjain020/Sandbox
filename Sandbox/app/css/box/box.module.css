@@ -1,0 +1,10 @@
+.one {
+    padding: 5px;
+    background-color: red;
+    border: 0 solid purple;
+}
+
+.two {
+    background-color: aquamarine;
+    border: 0 solid greenyellow;
+}
